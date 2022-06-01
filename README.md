@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 I'm Tushar, a data enthusiast currently pursuing Masters in Data Analytics at Northeastern University, Boston, MA.
 
