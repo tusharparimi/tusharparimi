@@ -8,7 +8,7 @@ I'm Tushar, a data enthusiast currently pursuing Masters in Data Analytics at No
 \
 ⚡ Fun fact: I can speak five different languages: English, Telugu, Hindi, French and Marathi
 \
-💬 Ask me about data, soccer and food :) 
+💬 Ask me about data, soccer and food
 \
 📫 How to reach me: [LinkedIn](www.linkedin.com/in/tushar-sai), tushar.parimi@gmail.com
 
