@@ -6,7 +6,7 @@ I'm Tushar, a data enthusiast currently pursuing Masters in Data Analytics at No
 \
 🌱 I’m looking to collaborate on an end to end data solution using Machine Learning & cloud technology
 \
-⚡ Fun fact: I can speak five different languages: English, Telugu, Hindi, French and Marathi
+⚡ Fun fact: I can speak three different languages: English, Telugu and Hindi
 \
 💬 Ask me about data, soccer and food
 \
