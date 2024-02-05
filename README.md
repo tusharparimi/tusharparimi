@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm Tushar, a data enthusiast currently pursuing Masters in Data Analytics at Northeastern University, Boston, MA.
 
-🔭 I’m currently looking for Fall'2023 Full-time opportunities in Data Science field.
+🔭 I’m currently looking for Full-time opportunities in Data-Science/Machine-Learning/Computer-Vision field.
 \
 🌱 I’m looking to collaborate on an end to end data solution using Machine Learning & cloud technology
 \
