@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Tushar, a data enthusiast currently pursuing Masters in Data Analytics at Northeastern University, Boston, MA.
+I'm Tushar,
 
 🔭 I’m currently looking for Full-time opportunities in Data-Science/Machine-Learning/Computer-Vision field.
 \
